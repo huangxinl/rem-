@@ -1,2 +1,3 @@
 # rem-
-![Alt](https://github.com/huangxinl/vuex-/blob/master/src/resource/外卖01_商品页.jpg)
+![Alt](https://github.com/huangxinl/rem-/blob/master/show/7RT95648YMAVPH__GC%40%5BYL9.png)
+![Alt](https://github.com/huangxinl/rem-/blob/master/show/7RT95648YMAVPH__GC%40%5BYL9.png)
